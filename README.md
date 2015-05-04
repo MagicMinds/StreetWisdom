@@ -1,4 +1,4 @@
 # StreetWisdom
 
-# Projects for financial products
+####### Projects for financial products
 
